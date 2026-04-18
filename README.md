@@ -1,4 +1,4 @@
-# Data-Science-Projects
+# Month 2 Data-Science-Projects
 Customer Churn &amp; Netflix Data Analysis Projects
 # Data Science Projects
 
